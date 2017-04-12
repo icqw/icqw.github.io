@@ -1,5 +1,9 @@
 ---
 title: Hello World
+date: 2017-04-13 00:10:32
+categories: "blog" #文章分類目錄 可以省略
+tags: #文章標籤 可以省略
+     - blog 设置
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 

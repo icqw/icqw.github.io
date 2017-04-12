@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Just For Test
+title: study study study
 subtitle:
 description:
 author: Will Qin
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -44,8 +44,11 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: categorized
+default_category: uncategorized
 category_map:
+    编程: programming
+    Windows: win
+    其他: other
 tag_map:
 
 # Date / Time format

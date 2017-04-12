@@ -1,5 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+categories: {{ categories }}
+tags: #文章标签 可以省略
+     - 标签1
 ---
