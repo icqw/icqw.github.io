@@ -1,2 +1,0 @@
-# icqw.github.io
-blog
